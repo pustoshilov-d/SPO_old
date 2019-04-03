@@ -1,0 +1,10 @@
+count 10+4*(1233+121*2)
+insert Pustishilov
+insert Krylova
+insert Syrina
+for 3*(4-1*2) {insert Osipova; insert Voronkov}
+printset
+remove Syrina
+printset
+printin Pustishilov
+printin Valilyev

@@ -1,0 +1,9 @@
+1
+2 printset
+3 insert Krylova
+4 insert Osipova
+5 printset
+6 remove Osipova
+7 for 10 {insert Osipova; printset}
+9 printin Valilyev
+
